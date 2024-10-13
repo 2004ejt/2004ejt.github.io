@@ -1,0 +1,23 @@
+@font-face {
+  font-family: 'Customfont'; /* Name your font family */
+  src: url('RibkaPixelDemoRegular-3lR1X.otf'); /* Locate the .ttf file within your directory*/
+}
+
+body {
+  font-family: 'Customfont', sans-serif; /* Use the font family */
+}
+
+a:hover, a:focus {
+	
+font-size: 20;
+}
+	
+.new { 
+	text-transform: uppercase;
+	text-shadow: 0 -1px yellow, 1px 0 yellow, 0 1px yellow, -1px 0 yellow;
+}
+
+
+
+
+
